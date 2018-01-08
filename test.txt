@@ -1,0 +1,8 @@
+1) Ecriture d'un article de blog tech avec comme très large sujets au choix :
+- les nouvelles méthodes de management
+- les usages de la donnée
+
+2) Fais nous un petit post facebook/twitter qui va avec ce post
+
+Règle : n'oublie pas que cet article est une simulation d'un article presse, il devra donc être mis en forme avec tous les codes qui se respectent (H1, H2, etc)
+
